@@ -1,0 +1,1 @@
+This is a demo instance of GitHub integration with CKAN.
